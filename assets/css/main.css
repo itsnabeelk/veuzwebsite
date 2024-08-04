@@ -2329,7 +2329,7 @@ Header CSS 01 Start
 Header CSS 02 Start
 /////////////////////////////////////////////////////////// */
 .zq_h2_header-area {
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 35px;
   right: 0;

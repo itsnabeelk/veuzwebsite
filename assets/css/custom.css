@@ -8098,6 +8098,7 @@ footer.clean-footer.crev:before {
   position: relative;
   background: rgb(15, 41, 35);
   overflow: hidden;
+  height: 100vh;
 }
 
 .half-slider .gallery-img {
